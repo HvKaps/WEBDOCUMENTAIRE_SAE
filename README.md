@@ -28,8 +28,13 @@ Le projet visait à montrer un visage positif et inspirant de ce quartier, trop 
 ## Fonctionnalités principales
 
 - **Web documentaire interactif** : une expérience immersive permettant de découvrir les différentes facettes de la Cité des Milles-Milles.
-- **Design responsive** : accessible sur mobile, tablette et ordinateur.
 - **Exploration de l'histoire locale** : des témoignages, des interviews et des reportages audio et vidéo pour mieux comprendre le quartier.
 
 ---
+
+## Credit
+--Mehdi Zenati 
+--Saffana Saladouine 
+--Emmanuel Kouassi
+--Hugo Vitor Goncalves Fernandes
 
