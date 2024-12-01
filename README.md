@@ -33,8 +33,8 @@ Le projet visait à montrer un visage positif et inspirant de ce quartier, trop 
 ---
 
 ## Credit
-- Mehdi Zenati 
-_ Saffana Saladouine 
-_ Emmanuel Kouassi
-_ Hugo Vitor Goncalves Fernandes
+- **Mehdi Zenati** 
+- **Saffana Saladouine**
+- **Emmanuel Kouassi**
+- **Hugo Vitor Goncalves Fernandes**
 
