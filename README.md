@@ -33,10 +33,3 @@ Le projet visait à montrer un visage positif et inspirant de ce quartier, trop 
 
 ---
 
-## Comment contribuer ?
-
-Si vous souhaitez contribuer à ce projet, n'hésitez pas à forker le dépôt et à soumettre vos modifications par une pull request. Voici quelques suggestions pour démarrer :
-
-1. Clonez le dépôt :  
-   ```bash
-   git clone https://github.com/[votre-nom]/webdoc-cite-des-milles-milles.git
