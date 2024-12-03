@@ -1,0 +1,67 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    background-color:#F2F2F2;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.Panneau img {
+    max-height: 60px; 
+    vertical-align: middle; 
+    transition: transform 0.3s ease; 
+}
+
+.Panneau img:hover {
+    transform: scale(1.1); 
+}
+
+.liens-footer a:hover {
+    font-weight: 500;
+}
+
+.bienvenue{
+
+  background: url('../IMAGE/INTERVIEW/Image-fond-interview.png') center/cover no-repeat;
+
+}
+.pa-inter {
+  background-color: #212121;
+  color: white;
+  padding: 50px 0;
+}
+
+.h1_inter {
+  letter-spacing: 4px;
+  font-weight: 700;
+}
+
+#fleche {
+  margin: 0 auto;
+}
+
+.p-premier {
+  margin-top: -20px; 
+}
+
+.bouton-remontant {
+  height: 70px;
+  width: 70px;
+  background: #212121;
+  border-radius: 50%;
+  border: 2px solid #525252;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  cursor: pointer;
+}
+
+.icone {
+  width: 50px;
+}
