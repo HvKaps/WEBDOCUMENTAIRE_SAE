@@ -16,10 +16,6 @@ Le projet visait à montrer un visage positif et inspirant de ce quartier, trop 
 - **Maquette Figma** :  
   [Voir la maquette du web documentaire](https://www.figma.com/design/MhCHC5fll2bjdtWqkYKHni/MAQUETTE-WEBDOC-302-LA-CITE-DES-MILLES-MILLES?node-id=0-1&t=LOjBH7LqALnqgA4r-1)
   
-- **Production sonore (via SwissTransfer)** :  
-  [Télécharger la production sonore](https://www.swisstransfer.com/d/83239159-0162-4e88-8110-5ee868d32fdf)  
-  *(Note : Nous avons rencontré un problème lors de l'hébergement de la production sonore, c'est pourquoi nous la mettons à disposition via ce lien.)*
-
 - **Google Docs - Structuration des idées** :  
   [Accédez au document de structuration](https://docs.google.com/document/d/1c7XiSjhx-Q7xbQuY9dCf9wpeI48ruHoS-217ciLG12M/edit?usp=sharing)
 
